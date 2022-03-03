@@ -1,4 +1,4 @@
-- 👋 Hi, I’m #@Abate-Mony
+- 👋 Hi, I’m # @Abate-Mony
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning javaScript and c++
 - 💞️ I’m looking to collaborate on ...
