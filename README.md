@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abate-Mony
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning javascript and c++
+- 🌱 I’m currently learning javaScript and c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
     facebook Abate Mon'y
