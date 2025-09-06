@@ -8,7 +8,7 @@ I'm **Emmanuel Ako Bate**, a passionate and versatile engineer with expertise in
 - 📫 You can reach me on:
   - **Facebook**: [Abate Mon'y](https://www.facebook.com/Abate.Mony)
   - **WhatsApp**: [+237672301714](https://wa.me/237672301714)
-  - **Portfolio**: [www.akobateemmanuel.com]([https://www.akobateemmanuel.com/](https://emmanuelakobate.innoprosolution.com/?scrollto=section))
+  - **Portfolio**: [www.akobateemmanuel.com]](https://emmanuelakobate.innoprosolution.com/?scrollto=section))
 
 ## Skills
 
